@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Soccer Player Rating App</string>
+    <string name="welcome">Rate Soccer Players</string>
+    <string name="start">Start</string>
+    <string name="ratingEntered">Rating Entered\n</string>
+    <string name="displayPlayerName">Player Name: %s\n</string>
+    <plurals name="starRating">
+        <item quantity="other">Rating: %d stars </item>
+        <item quantity="one">Rating %d star</item>
+    </plurals>
+
+    <string name="playerName">Player Name</string>
+    <string name="teamName">Team Name</string>
+
+    <string name="striker">Striker</string>
+    <string name="winger">Winger</string>
+    <string name="attackingMidfielder">Attacking Midfielder</string>
+    <string name="centralMidfielder">Central Midfielder</string>
+    <string name="holdingMidfielder">Holding Midfielder</string>
+    <string name="fullBack">Full Back</string>
+    <string name="centerBack">Center Back</string>
+    <string name="goalkeeper">Goalkeeper</string>
+
+    <string-array name="nationalities">
+        <item>Select Nationality...</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>German</item>
+        <item>Dutch</item>
+        <item>Ghanaian</item>
+        <item>Nigerian</item>
+        <item>Egyptian</item>
+        <item>Senegalese</item>
+        <item>Cameroonian</item>
+        <item>Ivorian</item>
+        <item>American</item>
+        <item>Canadian</item>
+        <item>Brazilian</item>
+        <item>Argentinian</item>
+        <item>Chilean</item>
+        <item>Mexican</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>South Korean</item>
+        <item>Russian</item>
+        <item>Slovakian</item>
+        <item>Polish</item>
+        <item>Greek</item>
+        <item>Moroccan</item>
+        <item>Belgian</item>
+        <item>Spanish</item>
+        <item>Croatian</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Colombian</item>
+        <item>Ecuadorian</item>
+    </string-array>
+
+    <string name="submit">Submit Rating</string>
+
+    <!-- Player name, team name, position, nationality, rating -->
+    <array name='playerNames'>
+        <item>Mateo Kovacic</item>
+        <item>Eden Hazard</item>
+    </array>
+
+    <array name="teamNames">
+        <item>Chelsea</item>
+        <item>Real Madrid</item>
+    </array>
+
+    <array name="position">
+        <item>Central Midfielder</item>
+        <item>Winger</item>
+    </array>
+
+    <array name="nationality">
+        <item>Croatian</item>
+        <item>Belgian</item>
+    </array>
+
+    <array name="rating">
+        <item>5</item>
+        <item>3</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
